@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Alexis Degraeve, I'm front-end developer and designer
 - 👀 I’m interested in Angular, ReactJS, Pixel perfect
 - 🌱 I’m currently improving knowledge in Front-End
-- 📫 How to reach me ...
+- 📫 <b> You can follow training on my YouTube Chennel https://www.youtube.com/channel/UCDPAw4WDkmXYX-L_NyZ4Hug  don't hesitate to subscribe</b>
 
-<!---
-alexisdegraeve/alexisdegraeve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
